@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUbEMyMdJ0k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keegan\\Source\\Repos\\Dalamud-Template\\Gamba_BlackJackXPlugin\\Gamba_BlackJackXPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keegan\\.nuget\\packages\\dalamudpackager\\2.1.13\\dalamudpackager.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

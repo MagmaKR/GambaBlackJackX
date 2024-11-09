@@ -1,0 +1,13 @@
+{
+    "Author": "MagmaK",
+    "Name": "Gamba_BlackJackXPlugin",
+    "Punchline": "A blackJack manger.",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://imgur.com/a/cute-dino-PKUnSWQ?third_party=1",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ]
+}

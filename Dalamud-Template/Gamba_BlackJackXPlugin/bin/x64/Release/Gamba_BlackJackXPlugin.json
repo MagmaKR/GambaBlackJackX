@@ -1,0 +1,21 @@
+{
+  "Author": "MagmaK",
+  "Name": "Gamba_BlackJackXPlugin",
+  "InternalName": "Gamba_BlackJackXPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://imgur.com/a/cute-dino-PKUnSWQ?third_party=1",
+  "Punchline": "A blackJack manger.",
+  "AcceptsFeedback": true
+}
