@@ -1,0 +1,20 @@
+{
+  "Author": "MagmaK",
+  "Name": "Gamba_BlackJackXPlugin",
+  "InternalName": "Gamba_BlackJackXPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A BlackJack Manager that helps you play and manage blackJack with friends in your party",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "BlackJack",
+    "Party Manager",
+    "plugin"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A customible blackJack Manager for parties and games.",
+  "AcceptsFeedback": true
+}

@@ -1,0 +1,16 @@
+{
+  "Author": "MagmaK",
+  "Name": "Gamba_BlackJackXPlugin",
+  "InternalName": "Gamba_BlackJackXPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A blackJack manger.",
+  "AcceptsFeedback": true
+}

@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Keegan\\source\\repos\\GambaBlackJackX\\Dalamud-Template\\Gamba_BlackJackXPlugin\\Gamba_BlackJackXPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\ECommons.csproj": {
+      "version": "2.2.0.2",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\ECommons.csproj",
+        "projectName": "ECommons",
+        "projectPath": "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\ECommons.csproj",
+        "packagesPath": "C:\\Users\\Keegan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keegan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keegan\\source\\repos\\GambaBlackJackX\\Dalamud-Template\\Gamba_BlackJackXPlugin\\Gamba_BlackJackXPlugin.csproj": {
+      "version": "0.0.0.1",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keegan\\source\\repos\\GambaBlackJackX\\Dalamud-Template\\Gamba_BlackJackXPlugin\\Gamba_BlackJackXPlugin.csproj",
+        "projectName": "Gamba_BlackJackXPlugin",
+        "projectPath": "C:\\Users\\Keegan\\source\\repos\\GambaBlackJackX\\Dalamud-Template\\Gamba_BlackJackXPlugin\\Gamba_BlackJackXPlugin.csproj",
+        "packagesPath": "C:\\Users\\Keegan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keegan\\source\\repos\\GambaBlackJackX\\Dalamud-Template\\Gamba_BlackJackXPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keegan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\ECommons.csproj": {
+                "projectPath": "C:\\Users\\Keegan\\source\\repos\\ECommons\\ECommons\\ECommons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "DalamudPackager": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
